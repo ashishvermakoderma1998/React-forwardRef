@@ -17,6 +17,7 @@ function App() {
 
   return (
     <>
+    <h1>R</h1>
    <MyInput ref={inputRef} placeholder="Type something..." />
    <button onClick={focusInput}>Focus Input</button>
     </>
