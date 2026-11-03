@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-    <h1>Rea</h1>
+    <h1>Reac</h1>
    <MyInput ref={inputRef} placeholder="Type something..." />
    <button onClick={focusInput}>Focus Input</button>
     </>
