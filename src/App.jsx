@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-    <h1>React forwar</h1>
+    <h1>React forwardRef</h1>
    <MyInput ref={inputRef} placeholder="Type something..." />
    <button onClick={focusInput}>Focus Input</button>
     </>
